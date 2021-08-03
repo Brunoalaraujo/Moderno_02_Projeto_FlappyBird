@@ -12,6 +12,7 @@
   border: 5px solid dodgerblue;
   height: 700px;
   width: 1200px;
+  margin: 15px;
   background-color: deepskyblue;
   overflow: hidden;
 }
@@ -23,7 +24,7 @@
   bottom: 50%;
 }
 
-.par-de-barreira {
+.par-de-barreiras {
   position: absolute;
   top: 0;
   height: 100%;
